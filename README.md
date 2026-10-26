@@ -2,11 +2,11 @@
 
 ### Información del Equipo
 - **Integrantes:**
-  - Santiago Harb - [Rol]
-  - Claudio Lagos - [Rol]
-  - Sebastián Miranda - [Rol]
-  - Elio Ramírez - [Rol]
-  - Agustín Riquelme - [Rol]
+  - Santiago Harb - [prototipado y codigo]
+  - Claudio Lagos - [diseño real ]
+  - Sebastián Miranda - [diseño real]
+  - Elio Ramírez - [prototipado y codigo]
+  - Agustín Riquelme - [diseño real]
 - **Curso:** Taller de Diseño (TEI201), Sección IV
 - **Profesor:** Benjamín Gutiérrez
 
@@ -17,7 +17,7 @@
 ### Descripción del Proyecto
 Basurero de reciclaje que incorpora un sistema de compactación mecánica automática. Un actuador lineal de 12 V, controlado por un Arduino UNO mediante dos relés, empuja una placa compresora que aplasta las latas dentro del contenedor. Así se reduce el volumen de cada residuo en el mismo momento en que el usuario lo deposita.
 
-Según la estimación del Avance N°1, una lata compactada hasta cerca del 30 % de su altura permite almacenar aproximadamente **tres veces más latas** en el mismo espacio (de 20 a 60 latas en una caja de 10,6 L).
+ una lata compactada hasta cerca del 30 % de su altura permite almacenar aproximadamente **tres veces más latas** en el mismo espacio (de 20 a 60 latas en una caja de 10,6 L).
 
 El proyecto mejora un precedente del ramo Taller de Introducción a la Ingeniería (2.° semestre 2025), que usaba un compactador manual: requería esfuerzo físico, aplicaba una fuerza irregular y podía dañarse.
 
