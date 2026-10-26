@@ -8,6 +8,9 @@ Esta carpeta contiene la documentación final del proyecto para la entrega del A
 
 ##  Carpetas
 
+#### `avances/`
+Entregas parciales: actividad de ideación y Avance N°1
+
 #### `reporte_final/`
 Reporte completo del proyecto (máximo 15 páginas)
 

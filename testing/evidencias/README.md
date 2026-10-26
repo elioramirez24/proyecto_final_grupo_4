@@ -1,5 +1,15 @@
 # Evidencias de Testing
 
+## Evidencias registradas
+
+| Archivo | Iteración | Contenido |
+|---|---|---|
+| `videos/prueba_transformador_original_v1.mov` | 1 | Prueba del transformador original de 12 V con multímetro y el actuador conectado (10 s). Registra el diagnóstico de la fuente defectuosa |
+
+**Pendiente:** video del actuador funcionando con la nueva fuente y los botones; sesiones con usuarios.
+
+---
+
 ## Contenido Requerido
 
 ### Fotografías

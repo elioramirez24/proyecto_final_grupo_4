@@ -35,9 +35,12 @@ Planos técnicos con cotas
 **Unidades:** Milímetros (mm)  
 **Escala:** 1:1 (dimensiones reales)
 
-**Dimensiones externas:** [X mm × Y mm × Z mm]  
-**Peso estimado:** [XXX gramos]  
-**Material:** [PLA, ABS, PETG, etc.]
+**Dimensiones externas:** 450 mm × 450 mm × 1000 mm (envolvente del chasis base)  
+**Volumen de material:** 17.246 cm³ (suma de las 17 piezas)  
+**Peso estimado (modelo v1):** 135,4 kg con todas las piezas en acero (densidad 7,85 g/cm³)  
+**Material:** Acero en el modelo actual. Materiales reales de construcción: MDF (Trupán), listones de madera y lámina de metal para la placa compactadora (ver `hardware/bom/README.md`). ℹ️ Con MDF y madera, la estructura sin placa ni actuador pesaría cerca de 9,8 kg.
+
+El detalle por pieza está en `fusion360/README.md`.
 
 ---
 
