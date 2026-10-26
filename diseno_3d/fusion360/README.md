@@ -6,12 +6,6 @@
 |---|---|
 | `compactador_v1.f3z` | Ensamble "taller" exportado el 17-10-2026 (modelo iniciado el 21-09-2026) |
 
-El formato `.f3z` incluye el diseño `.f3d` con sus referencias. Para abrirlo: Fusion 360 → **File > Open > Open from my computer** → seleccionar el `.f3z`.
-
----
-
-## Estructura del Modelo (v1)
-
 ### Componentes (Components)
 ```
 taller (Ensamble, Configuración 1)
@@ -60,8 +54,7 @@ Material asignado a las piezas: **Acero** (7,85 g/cm³).
 6. **Agujero de Ø1,5 cm en la tapa.** Indicar su función. Si es para el paso del vástago del actuador, verificar que el diámetro del vástago real quepa.
 7. **Holgura placa-contenedor:** 0,5 cm por lado (placa de 38 cm en contenedor de 39 cm). Es adecuada para que no roce, pero conviene confirmar que las latas no queden atrapadas en ese espacio.
 
-### ⚠️ Componentes que faltan para cumplir el requisito del curso
-El README de `diseno_3d/` exige que el modelo incluya **todos** los componentes del prototipo. El modelo actual tiene la estructura mecánica y el actuador, pero falta:
+### Componentes del circuito
 - [ ] Arduino UNO (68,6 × 53,4 mm)
 - [ ] 2 módulos de relé
 - [ ] Botones SALIR y ENTRAR en su ubicación exterior
@@ -69,12 +62,6 @@ El README de `diseno_3d/` exige que el modelo incluya **todos** los componentes 
 - [ ] Caja de protección de la electrónica
 - [ ] Recorrido aproximado del cableado
 - [ ] Tornillería y soportes de montaje
-
-### Uniones (Joints)
-[Documentar las juntas principales, en especial el movimiento lineal de la placa compresora sobre las guías]
-
-### Parámetros
-[Completar: dimensiones generales del contenedor, carrera útil de la placa, espesor de las placas]
 
 ---
 
